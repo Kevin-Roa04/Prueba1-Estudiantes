@@ -1,0 +1,15 @@
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\bin\Debug\net5.0\Sistematico.Infraestructure.deps.json
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\bin\Debug\net5.0\Sistematico.Infraestructure.dll
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\bin\Debug\net5.0\ref\Sistematico.Infraestructure.dll
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\bin\Debug\net5.0\Sistematico.Infraestructure.pdb
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\bin\Debug\net5.0\Sistematico.Domain.dll
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\bin\Debug\net5.0\Sistematico.Domain.pdb
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\obj\Debug\net5.0\Sistematico.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\obj\Debug\net5.0\Sistematico.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\obj\Debug\net5.0\Sistematico.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\obj\Debug\net5.0\Sistematico.Infraestructure.AssemblyInfo.cs
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\obj\Debug\net5.0\Sistematico.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\obj\Debug\net5.0\Sistematico.Infraestructure.csproj.CopyComplete
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\obj\Debug\net5.0\Sistematico.Infraestructure.dll
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\obj\Debug\net5.0\ref\Sistematico.Infraestructure.dll
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Infraestructure\obj\Debug\net5.0\Sistematico.Infraestructure.pdb

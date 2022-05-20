@@ -1,0 +1,15 @@
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\bin\Debug\net5.0\Sistematico.Applications.deps.json
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\bin\Debug\net5.0\Sistematico.Applications.dll
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\bin\Debug\net5.0\ref\Sistematico.Applications.dll
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\bin\Debug\net5.0\Sistematico.Applications.pdb
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\bin\Debug\net5.0\Sistematico.Domain.dll
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\bin\Debug\net5.0\Sistematico.Domain.pdb
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\obj\Debug\net5.0\Sistematico.Applications.csproj.AssemblyReference.cache
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\obj\Debug\net5.0\Sistematico.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\obj\Debug\net5.0\Sistematico.Applications.AssemblyInfoInputs.cache
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\obj\Debug\net5.0\Sistematico.Applications.AssemblyInfo.cs
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\obj\Debug\net5.0\Sistematico.Applications.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\obj\Debug\net5.0\Sistematico.Applications.csproj.CopyComplete
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\obj\Debug\net5.0\Sistematico.Applications.dll
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\obj\Debug\net5.0\ref\Sistematico.Applications.dll
+C:\Users\Kevin Roa\Desktop\Sistematico\Sistematico.Applications\obj\Debug\net5.0\Sistematico.Applications.pdb
