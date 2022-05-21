@@ -23,7 +23,7 @@ namespace DepreciationDBApp.Domain.Helper
             return true;
         }
 
-        public static bool ValidationFiels(string correo, string numero, string cedula, string carnet)
+        public static bool ValidationFiels(string correo, string numero, string carnet)
         {
             if (!Regex.IsMatch(correo, @"\A(\w+\.?\w*\@\w+\.)(com)\Z"))
             {
@@ -32,10 +32,6 @@ namespace DepreciationDBApp.Domain.Helper
             if (!Regex.IsMatch(numero, @"\A[0-9]{4}(\-)[0-9]{4}\Z"))
             {
                 throw new ArgumentException("the format of numero is incorrect");
-            }
-            if (!Regex.IsMatch(cedula, @"\A[0-9]{3}(\-)[0-9]{6}(\-)[0-9]{4}[A-Z]\Z"))
-            {
-                throw new ArgumentException("thr format of cedula is incorrect");
             }
             if(!Regex.IsMatch(carnet, @"\A[0-9]{4}(\-)[0-9]{4}[A-Z]\Z"))
             {

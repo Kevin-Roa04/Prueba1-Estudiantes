@@ -19,7 +19,7 @@ namespace Sistematico.Domain.Entities
         }
 
         public virtual DbSet<Estudiante> Estudiantes { get; set; }
-        public DbSet<Estudiante> Students { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public DbSet<Estudiante> Students { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

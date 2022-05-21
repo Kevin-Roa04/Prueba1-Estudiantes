@@ -30,7 +30,7 @@ namespace DepreciationDBApp.Forms
             {
                 if (Validations.emptyFields(txtName.Text, txtApellido.Text, txtCarnet.Text, txtCelular.Text, txtDireccion.Text, txtCorreo.Text, nudProgramacion.Value, nudEstadistica.Value, nudMatematicas.Value, nudContabilidad.Value))
                 {
-                    if(Validations.ValidationFiels(txtCorreo.Text, txtCelular.Text, txtCelular.Text, txtCarnet.Text))
+                    if(Validations.ValidationFiels(txtCorreo.Text, txtCelular.Text, txtCarnet.Text))
                     {
                         Estudiante estudiante = new Estudiante
                         {
@@ -70,7 +70,7 @@ namespace DepreciationDBApp.Forms
             {
                 if (Validations.emptyFields(txtName.Text, txtApellido.Text, txtCarnet.Text, txtCelular.Text, txtDireccion.Text, txtCorreo.Text, nudProgramacion.Value, nudEstadistica.Value, nudMatematicas.Value, nudContabilidad.Value))
                 {
-                    if (Validations.ValidationFiels(txtCorreo.Text, txtCelular.Text, txtCelular.Text, txtCarnet.Text))
+                    if (Validations.ValidationFiels(txtCorreo.Text, txtCelular.Text, txtCarnet.Text))
                     {
                         object n = dgvStudent.CurrentRow.Cells[0].Value;
                         if (n == null)
@@ -139,7 +139,7 @@ namespace DepreciationDBApp.Forms
         {
             try
             {
-                if (e.RowIndex > 0)
+                if (e.RowIndex >= 0)
                 {
                     Estudiante estudiante = studentService.GetAll()[e.RowIndex];
                     if (estudiante == null)

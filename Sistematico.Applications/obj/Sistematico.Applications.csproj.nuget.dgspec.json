@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Applications\\Sistematico.Applications.csproj": {}
+    "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Applications\\Sistematico.Applications.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Applications\\Sistematico.Applications.csproj": {
+    "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Applications\\Sistematico.Applications.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Applications\\Sistematico.Applications.csproj",
+        "projectUniqueName": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Applications\\Sistematico.Applications.csproj",
         "projectName": "Sistematico.Applications",
-        "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Applications\\Sistematico.Applications.csproj",
+        "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Applications\\Sistematico.Applications.csproj",
         "packagesPath": "C:\\Users\\Kevin Roa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Applications\\obj\\",
+        "outputPath": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Applications\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevin Roa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Domain\\Sistematico.Domain.csproj": {
-                "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Domain\\Sistematico.Domain.csproj"
+              "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Domain\\Sistematico.Domain.csproj": {
+                "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Domain\\Sistematico.Domain.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Domain\\Sistematico.Domain.csproj": {
+    "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Domain\\Sistematico.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Domain\\Sistematico.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Domain\\Sistematico.Domain.csproj",
         "projectName": "Sistematico.Domain",
-        "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Domain\\Sistematico.Domain.csproj",
+        "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Domain\\Sistematico.Domain.csproj",
         "packagesPath": "C:\\Users\\Kevin Roa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevin Roa\\AppData\\Roaming\\NuGet\\NuGet.Config",

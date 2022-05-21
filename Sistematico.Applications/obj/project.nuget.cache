@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VepF+RM+FX9lJHhDYP8hOPKhq42meuFKd9FjYDyyaIpCv41p2mIl81GqMkuHE8RdA4Wv8D5S6eIJeCoCRan9Uw==",
+  "dgSpecHash": "K2SufOtyRC+oyqujcFQDxOwroeB3APrybuGoSY2pJfj2A/C2rHy2CNPGRshAIzcbYaCPNlL7dwmHvNg7cUrFWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Applications\\Sistematico.Applications.csproj",
+  "projectFilePath": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Applications\\Sistematico.Applications.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kevin Roa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Kevin Roa\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

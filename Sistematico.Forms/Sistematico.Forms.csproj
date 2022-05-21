@@ -22,4 +22,10 @@
     <ProjectReference Include="..\Sistematico.Infraestructure\Sistematico.Infraestructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

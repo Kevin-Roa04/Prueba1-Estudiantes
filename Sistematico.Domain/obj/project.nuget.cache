@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ejgOZwvGKmnwK0xU7fyXE15lrF+g7+0TUobV6wovf9ldq1ydx7v8Tp7jAUir4sE/VoNi/F1uZNBcF/tjGBFBYw==",
+  "dgSpecHash": "7LI+Yv9U9Vc7LtqqGZhFDHmoSiYk7R1A2gy9IUnRGdef5a7aj/60l+QGS7qfVjCAfXSMBdmDSeP5HhlvwRqiVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Domain\\Sistematico.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Domain\\Sistematico.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kevin Roa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Kevin Roa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

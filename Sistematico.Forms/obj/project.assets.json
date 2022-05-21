@@ -6521,11 +6521,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Forms\\Sistematico.Forms.csproj",
+      "projectUniqueName": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Forms\\Sistematico.Forms.csproj",
       "projectName": "Sistematico.Forms",
-      "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Forms\\Sistematico.Forms.csproj",
+      "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Forms\\Sistematico.Forms.csproj",
       "packagesPath": "C:\\Users\\Kevin Roa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Forms\\obj\\",
+      "outputPath": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Forms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kevin Roa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6542,14 +6542,14 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Applications\\Sistematico.Applications.csproj": {
-              "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Applications\\Sistematico.Applications.csproj"
+            "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Applications\\Sistematico.Applications.csproj": {
+              "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Applications\\Sistematico.Applications.csproj"
             },
-            "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Domain\\Sistematico.Domain.csproj": {
-              "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Domain\\Sistematico.Domain.csproj"
+            "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Domain\\Sistematico.Domain.csproj": {
+              "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Domain\\Sistematico.Domain.csproj"
             },
-            "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Infraestructure\\Sistematico.Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\Sistematico\\Sistematico.Infraestructure\\Sistematico.Infraestructure.csproj"
+            "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Infraestructure\\Sistematico.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\Kevin Roa\\Desktop\\B\\Prueba1-Estudiantes\\Sistematico.Infraestructure\\Sistematico.Infraestructure.csproj"
             }
           }
         }
